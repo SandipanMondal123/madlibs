@@ -1,1 +1,1 @@
-A simple madlib where the user can input an adjective, verb, and noun and the program will output a madlib based on those inputs.q
+A simple madlib where the user can input an adjective, verb, and noun and the program will output a madlib based on those inputs.
